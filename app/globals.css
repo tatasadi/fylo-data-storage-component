@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap; /* added line */
+    border: 0;
+  }
+
+  .icon {
+    @apply flex aspect-square h-14 w-14 items-center justify-center rounded-xl bg-neutral-very-dark-blue p-4;
+  }
+
+  .footer-link {
+    @apply cursor-pointer underline;
+  }
+}
