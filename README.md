@@ -13,6 +13,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
   - [My process](#my-process)
     - [Built with](#built-with)
     - [Code Quality with](#code-quality-with)
+    - [Implementation time](#implementation-time)
   - [Author](#author)
 
 ## Overview
@@ -43,6 +44,10 @@ Users should be able to:
 ### Code Quality with
 
 ![](https://img.shields.io/badge/eslint-fff?style=for-the-badge&logo=eslint&logoColor=fff&color=4930bd) ![](https://img.shields.io/badge/prettier-fff?style=for-the-badge&logo=prettier&logoColor=000&color=f3ae42)
+
+### Implementation time
+
+This challenge was completed over a span of 1.5 hours.
 
 ## Author
 
